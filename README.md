@@ -1,2 +1,3 @@
 # hello-world
-Learning the ropes
+Coding newbie. <BR><BR>
+Learning the ropes. 
